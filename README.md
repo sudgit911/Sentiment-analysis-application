@@ -20,5 +20,5 @@ You will also need to install the following Python libraries:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
+   git clone https://github.com/sudgit911/sentiment-analysis-app.git
    cd sentiment-analysis-app
